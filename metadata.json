@@ -1,0 +1,5 @@
+{
+  "name": "BAJAAO Music Store",
+  "description": "Premium marketplace for musical instruments, pro audio, and DJ gear.",
+  "requestFramePermissions": ["geolocation"]
+}
